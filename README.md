@@ -1,6 +1,6 @@
 # 100ASK T113 PRO开发板TinaSDK支持
 
-1. 获取Tina-sdk V2.0源码 百度网盘获取地址 链接：https://pan.baidu.com/s/1f1K82iA0kNibuMlZu34i0g?pwd=9rds 提取码：9rds 压缩包路径在 Tina-SDK_DevelopLearningKits-V1/DongshanNezhaSTU-TinaV2.0-SDK
+1. 获取Tina-sdk V2.0源码 百度网盘获取地址 链接：https://pan.baidu.com/s/13uKlqDXImmMl9cgKc41tZg?pwd=qcw7 提取码：qcw7 压缩包路径在 Tina-SDK_DevelopLearningKits-V1/DongshanNezhaSTU-TinaV2.0-SDK
 2.  拷贝进Ubuntu系统内，并进行解压缩,解压命令在README里面
 3.  配置开发环境，这里以ubuntu-18举例
 
